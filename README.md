@@ -2,7 +2,7 @@
 
 A simple and elegant React application that lets you search for any GitHub user and instantly view their profile details including avatar, bio, followers, following, repositories, location, email, and Twitter handle.
 
-![GitHub User Finder](https://img.shields.io/badge/React-18-blue?logo=react)
+![GitHub User Finder](https://img.shields.io/badge/React-19-blue?logo=react)
 ![GitHub API](https://img.shields.io/badge/GitHub-API-black?logo=github)
 
 ##  Preview
