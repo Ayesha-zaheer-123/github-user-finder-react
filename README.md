@@ -37,7 +37,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/Ayesha-zaheer-123/github-finder.git
+   git clone https://github.com/Ayesha-zaheer-123/github-user-finder-react.git
    ```
 
 2. Navigate to the project folder
