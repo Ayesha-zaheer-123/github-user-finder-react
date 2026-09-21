@@ -19,14 +19,14 @@ A clean dark-themed UI inspired by GitHub's own design  search a username and ge
 -  Fully responsive design (mobile friendly)
 -  Dark GitHub style theme
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **React** (Hooks: `useState`)
 - **GitHub REST API** (`https://api.github.com/users/{your-username}`)
 - **CSS3** (Flexbox & Grid, media queries)
 - **Font Awesome** (for icons)
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -56,7 +56,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 
 5. Open your browser and go to `http://localhost:5173` (or the URL shown in your terminal)
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 github-finder/
@@ -75,7 +75,7 @@ github-finder/
 └── vite.config.js
 ```
 
-## ⚙️ How It Works
+##  How It Works
 
 1. The user types a GitHub username into the input field.
 2. On clicking **Search**, a request is sent to the GitHub API:
@@ -86,6 +86,6 @@ github-finder/
 4. If the user doesn't exist, an error message **"User not found!"** is shown instead.
 
 
-## 👩‍💻 Author
+##  Author
 
 **Ayesha Zaheer**
