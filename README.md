@@ -25,7 +25,7 @@ A clean dark-themed UI inspired by GitHub's own design  search a username and ge
 - **GitHub REST API** (`https://api.github.com/users/{your-username}`)
 - **CSS3** (Flexbox & Grid, media queries)
 - **Font Awesome** (for icons)
-- - **Vite** (build tool)
+-  **Vite** (build tool)
 
 ##  Getting Started
 
