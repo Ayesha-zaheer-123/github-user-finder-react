@@ -4,7 +4,6 @@ A simple and elegant React application that lets you search for any GitHub user 
 
 ![GitHub User Finder](https://img.shields.io/badge/React-18-blue?logo=react)
 ![GitHub API](https://img.shields.io/badge/GitHub-API-black?logo=github)
-![Status](https://img.shields.io/badge/status-active-success)
 
 ##  Preview
 
@@ -23,7 +22,7 @@ A clean dark-themed UI inspired by GitHub's own design  search a username and ge
 ## 🛠️ Tech Stack
 
 - **React** (Hooks: `useState`)
-- **GitHub REST API** (`https://api.github.com/users/{your-user-name}`)
+- **GitHub REST API** (`https://api.github.com/users/{your-username}`)
 - **CSS3** (Flexbox & Grid, media queries)
 - **Font Awesome** (for icons)
 
@@ -81,7 +80,7 @@ github-finder/
 1. The user types a GitHub username into the input field.
 2. On clicking **Search**, a request is sent to the GitHub API:
    ```
-   https://api.github.com/users/{username}
+   https://api.github.com/users/{your-username}
    ```
 3. If the user exists, their profile data (name, bio, stats, etc.) is displayed in a card.
 4. If the user doesn't exist, an error message **"User not found!"** is shown instead.
@@ -90,4 +89,3 @@ github-finder/
 ## 👩‍💻 Author
 
 **Ayesha Zaheer**
-- GitHub: [@your-username](https://github.com/Ayesha-zaheer-123)
